@@ -1,0 +1,5 @@
+#Clean
+#Readability
+#Predictability
+#DRY
+    #Do not repeat yourself

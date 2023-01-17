@@ -1,0 +1,11 @@
+4 pillars in which object oriented programming is based:
+    -Encapsulation, is the process of creating the class with his own attributes and methods
+    
+    -Abstraction, call actions on the objects with out caring about how they are created, but 
+    we gotta be carefull to only give access to certain features to avoid modifications in our programms
+
+    -Inheritance ("Heredar"), thats how we assign properties from a class to another in order
+    to dont repeat code, like creating parent and children classes
+
+    -Polymorphism (Many forms), is the way we can assing kind of the same key-word methods
+    to reuse code but it will not be modified in any of the istances
