@@ -1,0 +1,8 @@
+#1 - Import DATA
+#2 - Clean the DATA
+#3 - Split DATA:
+    - Training Set (80 %)
+    - Test Set (20 %)
+#4 - Create a Model 
+#5 - Check the output
+#6 - Improve

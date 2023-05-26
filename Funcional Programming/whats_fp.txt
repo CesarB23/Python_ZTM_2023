@@ -1,0 +1,11 @@
+-Clear and understandable
+-Easy to extend
+-Easy to maintain
+-Memory efficient
+-DRY
+
+Pure Funcionts:
+    -Given the same input it will always return the same output
+    -Produces no side-effects
+    -No interaction withe the outside world
+    -Separate data from functions

@@ -1,0 +1,17 @@
+Packages are folders that contain modules
+To import them we have to:
+import folder.modules
+Package folders must contain a __init__.py file 
+
+If the package is inside a folder and again inside a folder
+the shortest way to import is:
+from folder.folder.package import function,function
+
+To import all the functions from a module:
+
+from module import *
+
+Or to import with alias:
+import module as alias
+
+import random as rand
